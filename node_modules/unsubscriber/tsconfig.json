@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["es2015"],
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "paths": {
+      "unsubscriber": ["."]
+    },
+  },
+  "exclude": ["node_modules"]
+}
